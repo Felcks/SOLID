@@ -1,6 +1,6 @@
 package ocp;
 
-public abstract class Shape 
+abstract class Shape 
 {
 	public abstract void Draw();
 	

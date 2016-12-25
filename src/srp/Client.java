@@ -1,6 +1,6 @@
 package srp;
 
-public class Client 
+class Client 
 {
 	private String nome;
 	private String CPF;

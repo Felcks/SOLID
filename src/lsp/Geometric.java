@@ -1,6 +1,6 @@
 package lsp;
 
-public abstract class Geometric 
+abstract class Geometric 
 {
 	public int width;
 	public int height;

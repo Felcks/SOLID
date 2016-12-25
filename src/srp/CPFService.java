@@ -1,6 +1,6 @@
 package srp;
 
-public class CPFService 
+class CPFService 
 {
 	public static Boolean isValid(String CPF){
 		if(CPF.length() == 11)

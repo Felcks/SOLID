@@ -1,6 +1,6 @@
 package srp;
 
-public class EmailService 
+class EmailService 
 {
 	public static Boolean isValid(String email){
 		if(email.contains("@"))

@@ -1,6 +1,6 @@
 package isp;
 
-public interface IWithdrawable
+interface IWithdrawable
 {
 	public void withdraw();
 }

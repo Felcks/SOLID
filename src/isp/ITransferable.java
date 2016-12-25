@@ -1,6 +1,6 @@
 package isp;
 
-public interface ITransferable
+interface ITransferable
 {
 	public void transfer();
 }

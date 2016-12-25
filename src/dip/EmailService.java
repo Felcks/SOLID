@@ -1,0 +1,5 @@
+package dip;
+
+class EmailService {
+
+}

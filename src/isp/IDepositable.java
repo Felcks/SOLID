@@ -1,6 +1,6 @@
 package isp;
 
-public interface IDepositable 
+interface IDepositable 
 {
 	public void deposite();
 }
